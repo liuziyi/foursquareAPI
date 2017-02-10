@@ -1,0 +1,5 @@
+export default {
+
+	LOCATIONS_RECEIVED: 'LOCATIONS_RECEIVED'
+
+}
