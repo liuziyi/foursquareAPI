@@ -87,7 +87,7 @@ class Nav extends Component {
 
 const stateToProps = (state) => {
 	return {
-		locations: state.location
+		locations: state.location.locations
 	}
 }
 
